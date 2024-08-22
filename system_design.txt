@@ -1,0 +1,2 @@
+CONSISTENT HASHING
+https://arpitbhayani.me/blogs/consistent-hashing/
